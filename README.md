@@ -6,6 +6,8 @@ Pandas, Numpy, HvPlot, SQL
 
 
 ## Results and Summary
-Images/webapp1.pdf
+Sample Voilà Image 1: 
+<img width="1256" alt="webapp1" src="https://user-images.githubusercontent.com/109967916/200354712-6f2af117-7cc2-4015-bc71-96e4e4c4e5fa.png">
 
-Images/webapp2.pdf
+Sample Voilà Image 2:
+![webapp2](https://user-images.githubusercontent.com/109967916/200354633-ab6f13ed-9eae-4166-8515-3a70a19ae056.png)
